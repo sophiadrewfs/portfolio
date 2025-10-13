@@ -8,27 +8,27 @@ function Projects() {
     const projects = {
         'two-phase-methodology': {
             title: 'Two-Phase Red Team Case Study - Methodology',
-            pdfUrl: '/methodology-case-study.pdf'
+            pdfUrl: `${process.env.PUBLIC_URL}/methodology-case-study.pdf`
         },
         'two-phase-case-study': {
             title: 'Two-Phase Red Teaming Case Study',
-            pdfUrl: '/case-study.pdf'
+            pdfUrl: `${process.env.PUBLIC_URL}/case-study.pdf`
         },
         'two-phase-data-analysis': {
             title: 'Two-Phase Red Team Case Study - Data Analysis',
-            pdfUrl: '/data-analysis.pdf'
+            pdfUrl: `${process.env.PUBLIC_URL}/data-analysis.pdf`
         },
         'two-phase-pre-prompting-results': {
             title: 'Two-Phase Red Team Case Study - Pre-Prompting Results',
-            pdfUrl: '/pre-prompting-results.pdf'
+            pdfUrl: `${process.env.PUBLIC_URL}/pre-prompting-results.pdf`
         },
         'two-phase-focused-prompting-results': {
             title: 'Two-Phase Red Team Case Study - Focused Prompting Results',
-            pdfUrl: '/focused-prompting-results.pdf'
+            pdfUrl: `${process.env.PUBLIC_URL}/focused-prompting-results.pdf`
         },
         'jailbreak': {
             title: 'Advanced Jailbreak Analysis',
-            pdfUrl: '/jailbreak-analysis.pdf'
+            pdfUrl: `${process.env.PUBLIC_URL}/jailbreak-analysis.pdf`
         }
     };
 
