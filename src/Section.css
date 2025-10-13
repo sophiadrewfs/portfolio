@@ -1,0 +1,113 @@
+.section {
+  background-color: #f6f6f6;
+  padding: 1rem 3rem;
+  text-align: center;
+}
+.heading {
+  font-size: 3rem;
+  color:#3a353c;
+  margin-top: 4rem;
+  margin-bottom: .5rem;
+}
+.start {
+  font-size: 1.5rem;
+  color: #3a353c;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+.summary{
+  font-size: 1rem;
+  color: #3a353c;
+  line-height: 1.6;
+  text-align: left;
+  margin-left:.5rem;
+  margin-right: 5rem;
+}
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+/* Experience/Education */
+.experience-start {
+  font-size: 1.5rem;
+  color: #3a353c;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  text-align: left;
+}
+.experience{
+  font-size: 1rem;
+  color: #525152;
+  line-height: 1.2;
+  text-align: left;
+  margin-left:1rem;
+  margin-right: 5rem;
+  margin-bottom: 0.5rem;
+}
+
+.experience-description {
+  font-size: 1rem;
+  color: #525152;
+  line-height: 1.2;
+  text-align: left;
+  margin-left:1rem;
+  margin-right: 5rem;
+  margin-bottom: 0.25rem;
+  margin-top: 0.25rem;
+}
+
+.experience-list {
+  list-style-type: none;
+  color: #525152;
+  line-height: 1;
+  text-align: left;
+  margin-right: 5rem;
+  padding-left: 3rem;
+  margin-bottom: 2rem;
+  margin-top: 0;
+}
+.experience-list li {
+  padding-left: .5rem;
+  text-indent: -.5rem;
+  margin-bottom: 0.5rem;
+}
+.experience-list li::before {
+  content: "▸ ";
+  color: #101010;
+  font-weight: bold;
+  display: inline-block;
+  width: .5rem;
+}
+
+/* Skills Section */
+.skills-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  padding-bottom: 10rem;
+}
+
+.skill-category {
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.skill-category-title {
+  font-size: 1.25rem;
+  color: #3a353c;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  margin-left: 1rem;
+}
+
+.skill-list {
+  font-size: 1rem;
+  color: #525152;
+  line-height: 1.8;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
