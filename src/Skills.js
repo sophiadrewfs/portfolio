@@ -17,7 +17,7 @@ function Skills() {
                 <div className="skill-category">
                     <h3 className="skill-category-title">Tools & Technologies</h3>
                     <p className="skill-list">
-                        Google Sheets • Google Apps Script • Git • Visual Studio Code • IntelliJ
+                        Google Sheets / Microsoft Excel • Google Apps Script • Git • Visual Studio Code • IntelliJ
                     </p>
                 </div>
 
