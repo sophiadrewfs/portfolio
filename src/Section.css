@@ -20,8 +20,8 @@
   color: #3a353c;
   line-height: 1.6;
   text-align: left;
-  margin-left:.5rem;
-  margin-right: 5rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 .profile-photo {
   width: 200px;
@@ -36,6 +36,7 @@
   font-size: 1.5rem;
   color: #3a353c;
   margin-bottom: 1rem;
+  margin-left: 1rem;
   font-weight: 600;
   text-align: left;
 }
@@ -44,8 +45,8 @@
   color: #525152;
   line-height: 1.2;
   text-align: left;
-  margin-left:1rem;
-  margin-right: 5rem;
+  margin-left:2rem;
+  margin-right: 2rem;
   margin-bottom: 0.5rem;
 }
 
@@ -54,8 +55,8 @@
   color: #525152;
   line-height: 1.2;
   text-align: left;
-  margin-left:1rem;
-  margin-right: 5rem;
+  margin-left:2rem;
+  margin-right: 2rem;
   margin-bottom: 0.25rem;
   margin-top: 0.25rem;
 }
@@ -65,8 +66,8 @@
   color: #525152;
   line-height: 1;
   text-align: left;
-  margin-right: 5rem;
-  padding-left: 3rem;
+  margin-right: 2rem;
+  padding-left: 4rem;
   margin-bottom: 2rem;
   margin-top: 0;
 }
