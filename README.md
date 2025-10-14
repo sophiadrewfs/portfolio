@@ -19,6 +19,7 @@ This portfolio highlights my experience as an AI Red Teaming Expert at Scale AI,
 
 - Email: sophiadrewfs@gmail.com
 - LinkedIn: https://linkedin.com/in/sophiadrewfs/
+- Portfolio: https://sophiadrewfs.github.io/portfolio/
 
 ## Running Locally
 ```bash
