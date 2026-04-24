@@ -8,23 +8,23 @@ function Skills() {
             
             <div className="skills-container">
                 <div className="skill-category">
-                    <h3 className="skill-category-title">Programming & Data Analysis</h3>
+                    <h3 className="skill-category-title">Programming & Development</h3>
                     <p className="skill-list">
-                        Python • SQL • Java • JavaScript • Data Analysis • Data Visualization • Pattern Recognition • Data Cleaning • Statistical Analysis • Exploratory Data Analysis
+                        Python • SQL • Git • Visual Studio Code • Google Apps Script
                     </p>
                 </div>
 
                 <div className="skill-category">
-                    <h3 className="skill-category-title">Tools & Technologies</h3>
+                    <h3 className="skill-category-title">Data Analysis & Visualization</h3>
                     <p className="skill-list">
-                        Google Sheets / Microsoft Excel • Google Apps Script • Git • Visual Studio Code • IntelliJ
+                        Google Sheets • Data Cleaning • Exploratory Data Analysis • Pattern Recognition • Statistical Analysis • Data Visualization
                     </p>
                 </div>
 
                 <div className="skill-category">
-                    <h3 className="skill-category-title">Specialized Skills</h3>
+                    <h3 className="skill-category-title">AI Safety & Evaluation</h3>
                     <p className="skill-list">
-                        AI Model Evaluation • Red Teaming • Prompt Engineering • Testing Methodologies • Technical Documentation • Quality Assurance
+                        AI Model Evaluation • Red Teaming • Adversarial Testing • Prompt Engineering • AI API Integration • Testing Frameworks • Technical Documentation
                     </p>
                 </div>
             </div>
